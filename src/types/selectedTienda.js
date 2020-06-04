@@ -1,0 +1,1 @@
+export const TIENDA_SELECTED = 'TIENDA_SELECTED';

@@ -1,0 +1,1 @@
+export const COMPRA_SELECTED = 'COMPRA_SELECTED';
