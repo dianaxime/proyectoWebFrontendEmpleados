@@ -17,7 +17,7 @@
     "@react-navigation/stack": "^5.4.1",
     "expo": "~37.0.3",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.26.0",
     "native-base": "^2.13.12",
     "normalizr": "^3.6.0",
